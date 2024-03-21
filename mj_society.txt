@@ -1,1 +1,1 @@
-
+{"version":"1.0.0","news":"Oficjalne wydanie skryptu mj_society :D"}
